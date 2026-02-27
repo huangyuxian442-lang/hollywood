@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 plotly
-streamlit-pandas-profiling
+setuptools
 ydata-profiling
